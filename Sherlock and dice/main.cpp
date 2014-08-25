@@ -28,6 +28,9 @@ Para cada teste, imprima a probabilidade (K) em notação científica como defin
  1 ≤ T ≤ 10
  1 ≤ N, M ≤ 50
  1 ≤ K ≤ 10000
+ 
+ <source: http://www.hackerearth.com/problem/algorithm/sherlock-and-dice/ available in 08/25/2014>
+ 
 */
 
 // inclusão das bibliotecas necessárias para a execução deste programa
