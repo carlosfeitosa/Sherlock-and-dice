@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3CAA90A6DB133A50822FFB90365C0CD7ECE837F9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "67C34ACA-CBD5-4084-933B-E3169A8666EE" : 0,
+    "3CAA90A6DB133A50822FFB90365C0CD7ECE837F9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5EEE1CF5-0795-4E72-8B9A-E39710EE5228",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "67C34ACA-CBD5-4084-933B-E3169A8666EE" : "Sherlock and dice",
+    "3CAA90A6DB133A50822FFB90365C0CD7ECE837F9" : "Sherlock%20and%20dice"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sherlock and dice",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sherlock and dice.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/carlosfeitosa\/Sherlock-and-dice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3CAA90A6DB133A50822FFB90365C0CD7ECE837F9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/carlosfeitosa\/Sherlock-and-dice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67C34ACA-CBD5-4084-933B-E3169A8666EE"
+    }
+  ]
+}
