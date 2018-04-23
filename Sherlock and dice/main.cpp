@@ -56,7 +56,7 @@ using namespace std;
 *   @return
 *   Número decimal (float/double) com a probabilidade
 */
-double returnProbabilities(int m, int n, int k)
+double calculateProbabilities(int m, int n, int k)
 {
     // declarando array bidimensional dice (dado) que possui n+1 elementos na primeira dimensão e k+10 elementos na segunda posição
     double dice[n+1][k+10];
@@ -125,7 +125,7 @@ int main()
         assert((m > 0 and m < 51) or (n > 0 and n < 51) or (k > 1 and k <= 10000));
 
         // recuperando probabilidade
-        probability = returnProbabilities(n, m, k);
+        probability = calculateProbabilities(n, m, k);
 
         // verificando se a probabilidade é zero
         if (0 == probability) {
